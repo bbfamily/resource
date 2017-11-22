@@ -10,6 +10,6 @@
 
 #### 功能截图
 
-[](./images/image,png)
+![](./images/image.png)
 
 [去下载阿布量化桌面版](https://github.com/bbfamily/resource/releases/tag/v1.0)
